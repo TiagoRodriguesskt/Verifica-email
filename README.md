@@ -1,5 +1,5 @@
 # Verifica-email
-Uma pequena verificação de e-mail. Ainda tem finalizar
+Uma pequena verificação de e-mail. Ainda tem finalizar.
 
 
 
